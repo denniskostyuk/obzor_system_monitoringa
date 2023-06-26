@@ -24,7 +24,8 @@
 
 ### Задание 1
 
-https://github.com/denniskostyuk/obzor_system_monitoringa/blob/main/img/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD.png
+![Скрин](https://github.com/denniskostyuk/obzor_system_monitoringa/blob/main/img/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD.png)
+
 
 `Приведите ответ в свободной форме........`
 
